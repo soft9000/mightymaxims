@@ -5,7 +5,7 @@ But separating the good quotes from the bad ones can be a [never-ending journey]
 
 Ever a worthy pass time, the quotations in this collection are here 'mostly' for educational demonstrations. Some quotes are 'good', some quotes are 'bad', and other quotations are simply 'ugly' - in need of no little editorial assistance.
 
-Submitted for your perusal then, here a few large quotation collections to enjoy. Ad-hoc software creations are encouraged.
+Submitted for your perusal then, here are a few large quotation collections to enjoy. Ad-hoc software creations are encouraged.
 
 Happy quotation 'questing!
 
