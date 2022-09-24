@@ -1,9 +1,11 @@
-# mightymaxims
+# Mighty Maxims
 There is nothing like a good quote?
 
 But separating the good quotes from the bad ones can be a [never-ending journey](https://sourceforge.net/projects/mightymaxims/)!
 
-Ever a worthy pass time, the quotations in this collection are here 'mostly' for educational demonstrations. Some quotes are 'good', some quotes are 'bad', and other quotations are simply 'ugly' - in need of no little editorial assistance.
+Ever a worthy pass time, the quotations in this collection are here 'mostly' for educational demonstrations. Some quotes are 'good', some quotes are 'bad', and other quotations are simply 'ugly' - in need of no little editorial assistance. 
+
+First Project: Can you find the duplicate sayings?
 
 Submitted for your perusal then, here are a few large quotation collections to enjoy. Ad-hoc software creations are encouraged.
 
