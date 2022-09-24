@@ -1,2 +1,17 @@
 # mightymaxims
-Quotation data for educational demonstrations.
+There is nothing like a good quote?
+
+But separating the good quotes from the bad ones can be a [never-ending journey](https://sourceforge.net/projects/mightymaxims/)!
+
+Ever a worthy pass time, the quotations in this collection are here 'mostly' for educational demonstrations. Some quotes are 'good', some quotes are 'bad', and other quotations are simply 'ugly' - in need of no little editorial assistance.
+
+Submitted for your perusal then, here a few large quotation collections to enjoy. Ad-hoc software creations are encouraged.
+
+Happy quotation 'questing!
+
+-- Randall
+
+p.s. The results of this 'Quoties decades-long quests for the |best| inspirations can be found in the [Mighty Maxims Book](https://www.amazon.com/Mighty-Maxims-2021-Randall-Nagy-ebook/dp/B09H9DV8KV). 
+
+Your patronage might make the efforts somehow seem worthwhile... ;-)
+
