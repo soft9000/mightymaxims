@@ -11,7 +11,7 @@ Submitted for your perusal then, here are a few large quotation collections to e
 
 Happy quotation 'questing!
 
--- [Randall Nagy](http://www.soft9000.com)
+-- [Randall Nagy](http://soft9000.com)
 
 p.s. The results of this 'Quoties decades-long quests for the |best| inspirations can be found in the [Mighty Maxims Book](https://www.amazon.com/Mighty-Maxims-2021-Randall-Nagy-ebook/dp/B09H9DV8KV).
 
