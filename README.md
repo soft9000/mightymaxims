@@ -17,3 +17,4 @@ p.s. The results of this 'Quoties decades-long quests for the |best| inspiration
 
 Your patronage might make the efforts somehow seem worthwhile... ;-)
 
+p.s: Even more quote hungry? -Then here are the links to the [Doctor Quote](https://github.com/soft9000/DoctorQuote) as well as the [Facebook](https://www.facebook.com/groups/mightymaxims/) Projects.
