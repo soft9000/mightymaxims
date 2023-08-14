@@ -13,7 +13,7 @@ Happy quotation 'questing!
 
 -- [Randall Nagy](http://soft9000.com)
 
-p.s. The results of this 'Quoties decades-long quests for the |best| inspirations can be found in the [Mighty Maxims Book](https://www.amazon.com/Mighty-Maxims-2021-Randall-Nagy-ebook/dp/B09H9DV8KV).
+p.s. The results of this 'Quoties decades-long quests for the |best| inspirations can be found in the [Mighty Maxims Book](https://www.amazon.com/Mighty-Maxims-2021-Randall-Nagy-ebook/dp/B09H9DV8KV). Here is the [PDF Edition.](https://github.com/soft9000/DoctorQuote/blob/master/MightyMaxims/MM_08_14_2023_FREE.pdf)
 
 Your patronage might make the efforts somehow seem worthwhile... ;-)
 
